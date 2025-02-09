@@ -32,6 +32,7 @@ Unit tests and mock tests are performed using Mockito and Mocktail.
 
 
 Design - https://www.figma.com/design/5F7C64tRnrAYO0flGfuFDs/Flutter-task?node-id=0-1&p=f&t=35r9HfGRQpDEjqce-0
+
 Prototype - https://www.figma.com/proto/5F7C64tRnrAYO0flGfuFDs/Flutter-task?node-id=71-52&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
 
 
