@@ -17,24 +17,21 @@ The project uses MobX for state management
 3.Persistence
 The project for storing data uses SharedPreferences, in core/utility/ folder there is utility class which handles interaction with SharedPrefs
 AppStorage wrapper class of SharedPrefs which implements main function that project need for interaction with storage like saving selected theme, save LogedIn user , and saving all signed users
+
+
 4.Navigation
 The app defines a structured navigation system using named routes.
+
+
 5.Dependency Injection
 The project utilizes GetIt for dependency injection.
+
+
 6.Testing
 Unit tests and mock tests are performed using Mockito and Mocktail.
 
 
+Design - https://www.figma.com/design/5F7C64tRnrAYO0flGfuFDs/Flutter-task?node-id=0-1&p=f&t=35r9HfGRQpDEjqce-0
+Prototype - https://www.figma.com/proto/5F7C64tRnrAYO0flGfuFDs/Flutter-task?node-id=71-52&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
