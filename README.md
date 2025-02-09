@@ -28,7 +28,7 @@ The app defines a structured navigation system using named routes.
 The project utilizes GetIt for dependency injection.
 
 
-6.Authentication Flow
+6.Application Flow
 6.1. First Screen is splash screen where via AppStore app check if there is already loged in user or not.If there is app navigates to Home screen. If there is not app noavigates to Auth screen.
 6.2. In Auth screen user can via tab bar select Login or SignUp options, after filling text filed user have to click again in tab bar for action.If all field are validated application navigates to home page.If some fields are not validated application shows error messages.
 6.3. In home screen application welcome user by username and user have ability to log out.
